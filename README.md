@@ -3,12 +3,14 @@
 
 * Chat FireBase
 Aqui foi utilizado o componente GifTed-Chat (https://github.com/FaridSafi/react-native-gifted-chat) para renderizar as mensagens entre dois usuários e para a conexão entre esse usuários foi utilizado o Banco de Dados FireBase.
+<p float="left" align="center">
 <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/chat.gif" width="300">
+</p>
 
 # Triagem Covid
   * Consiste em uma funcionalidade do aplicativo, que baseado nas marcações do usuário dos sintomas do covid será recomendado o que fazer, foi utilizado a documentação da Organização Panamericana de saúde.
-  <p float="left">
- <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/triagemCovid.jpeg" width="300">
+  <p float="left" align="center">
+ <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/triagemCovid.jpeg" width="300" right="10px">
  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/recomedacaoCovid.jpeg" width="300">
-  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/mapa.gif" width="300">
+ <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/mapa.gif" width="300">
  </p>
