@@ -7,5 +7,7 @@ Aqui foi utilizado o componente GifTed-Chat (https://github.com/FaridSafi/react-
 
 # Triagem Covid
   * Consiste em uma funcionalidade do aplicativo, que baseado nas marcações do usuário dos sintomas do covid será recomendado o que fazer, foi utilizado a documentação da Organização Panamericana de saúde.
- 
- 
+  <p float="left">
+ <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/triagemCovid.jpeg" width="300">
+ <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/recomedacaoCovid.jpeg" width="300">
+ </p>
