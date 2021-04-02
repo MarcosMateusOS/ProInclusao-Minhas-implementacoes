@@ -10,4 +10,5 @@ Aqui foi utilizado o componente GifTed-Chat (https://github.com/FaridSafi/react-
   <p float="left">
  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/triagemCovid.jpeg" width="300">
  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/recomedacaoCovid.jpeg" width="300">
+  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/mapa.gif" width="300">
  </p>
