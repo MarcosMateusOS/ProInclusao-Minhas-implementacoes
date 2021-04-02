@@ -4,3 +4,6 @@
 * Chat FireBase
 Aqui foi utilizado o componente GifTed-Chat (https://github.com/FaridSafi/react-native-gifted-chat) para renderizar as mensagens entre dois usuários e para a conexão entre esse usuários foi utilizado o Banco de Dados FireBase.
 ![alt text](https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/chat.gif)
+
+# Triagem Covid
+  * 
