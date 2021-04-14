@@ -14,3 +14,7 @@ Aqui foi utilizado o componente GifTed-Chat (https://github.com/FaridSafi/react-
  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/imgs/recomedacaoCovid.jpeg" width="300">
  <img src="https://raw.githubusercontent.com/MarcosMateusOS/ProInclusao-Minhas-implementacoes/main/imgs/mapa.gif" width="300">
  </p>
+ 
+ # Atualmente
+  * Atualmente estou implementando o back-end, utilizando o Node.js com a estrutura de MVC.
+  
